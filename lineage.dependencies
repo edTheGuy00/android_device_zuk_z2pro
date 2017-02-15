@@ -4,11 +4,19 @@
    "target_path": "kernel/zuk/msm8996"
  },
  {
+   "remote": "lineageOS",
    "repository": "android_device_qcom_common",
-   "target_path": "device/qcom/common"
+   "target_path": "device/qcom/common",
+   "revision": "cm-14.1"
  },
  {
-   "repository": "android_vendor_qcom_binaries",
-   "target_path": "vendor/qcom/binaries"
+	"remote": "lineageOS",
+    "repository": "android_vendor_qcom_binaries",
+    "target_path": "vendor/qcom/binaries",
+    "revision": "cm-14.1"
+ },
+ {
+   "repository": "android_vendor_zuk_z2pro",
+   "target_path": "vendor/zuk/z2pro"
  },
 ]
