@@ -410,6 +410,9 @@ etc/mixer_paths.xml
 etc/firmware/leia_pfp_470.fw
 etc/firmware/leia_pm4_470.fw
 etc/init.qcom.coex.sh
+etc/init.leds.sh
+etc/boot.info
+etc/init.qcom.zram.sh
 etc/mixer_paths_i2s.xml
 etc/init.ath3k.bt.sh
 etc/init.qcom.fm.sh
@@ -453,3 +456,5 @@ lib/modules/rdbg.ko
 lib/hw/audio.primary.msm8996.so
 lib64/libloc_core.so
 lib64/libloc_eng.so
+etc/firmware/msadp
+

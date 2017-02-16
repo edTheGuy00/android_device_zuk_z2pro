@@ -199,6 +199,15 @@ vendor/lib64/libsdm-diag.so
 vendor/lib64/libsdmextension.so
 
 # Graphics firmware
+etc/firmware/a225p5_pm4.fw
+etc/firmware/a225_pfp.fw
+etc/firmware/a225_pm4.fw
+etc/firmware/a300_pfp.fw
+etc/firmware/a300_pm4.fw
+etc/firmware/a330_pfp.fw
+etc/firmware/a330_pm4.fw
+etc/firmware/a420_pfp.fw
+etc/firmware/a420_pm4.fw
 etc/firmware/a530_gpmu.fw2
 etc/firmware/a530_pfp.fw
 etc/firmware/a530_pm4.fw
